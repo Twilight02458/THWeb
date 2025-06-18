@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body style="background-color: rgb(255, 163, 163);">
+    <h1>Đại Học Mở Tp.Hồ Chí Minh <br>
+    Khoa Công nghệ thông tin</h1>
+    <hr width="50%">
+    <h2 align = "center">GIỚI THIỆU</h2>
+    <br>Khoa công nghệ thông tin (CNTT) được thành lập từ tháng 09/1990.Trải qua hơn 25 năm xây dựng và phát triển. Khoa đã 
+    đào tạo và cung cấp nguồn nhân lực có chất lượng cho xã hội với số lượng
+    xấp xỉ 5.000 cử nhân khoa học đệ chính quy khối ngành Công Nghệ Thông Tin và hàng
+    ngàn cử nhân Tin học không chính quy.
+    <h3 align = "center">CHƯƠNG TRÌNH ĐÀO TẠO</h3>
+    <ol type="I">
+        <li><b><ins>Chương trình đào tạo hệ Đại Học 4 năm</ins></b></li>
+        <ol type="1">
+            <li>Ngành khoa học máy tính</li>
+            <ul>
+                <li>Hướng chuyên sâu mạng máy tính</li>
+                <li>Hướng chuyên sâu cơ sở dữ liệu</li>
+                <li>Hướng chuyên sâu đồ họa</li>
+            </ul>
+            <li>Ngành hệ thống thông tin</li>
+            <li>ngành công nghệ thông tin</li>
+        </ol>
+        <li><b><ins>Chương trình đào taoj hệ liên thông đại học
+            ngành khoa học máy tính 2 năm
+        </ins> </b></li>
+        <ul type ="circle">
+            <li>Hướng chuyên sâu mạng máy tính</li>
+            <li>Hướng chuyên sâu cơ sở dữ liệu</li>
+            <li>Hướng chuyên sâu đồ họa</li>
+        </ul>
+        <li>Chương trình Cao học chuyên ngành khoa học máy tính</li>
+
+    </ol>
+</body>
+</html>
