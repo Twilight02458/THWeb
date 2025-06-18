@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <p>
+        <b>Đây là dòng đầu tiên trong đoạn thứ nhất, in đậm</b><br>
+        <i>Đây là dòng thứ hai trong đoạn đầu tiên, in nghiêng</i>
+    </p>
+    <p>
+        <b><i>Đây là nội dung trong đoạn thứ hai, in đậm, in nghiêng</i></b>
+    </p>
+    <h1>Heading &lth1&gt được canh lề trái</h1>
+    <p>Đoạn này sử dụng thuộc tính căng lề trái align = "left"</p>
+    <h2 align = "center">Heading &lth2&gt được canh giữa</h2>
+    <p align = "center">Đoạn này sử dụng thược tính align = "center"</p>
+    <h3 align = "right">Heading &lth3&gt được canh lề phải</h3>
+    <p align = "right">Đoạn này sử dụng thuộc tính canh lề phải align = "left"</p>
+</body>
+</html>
